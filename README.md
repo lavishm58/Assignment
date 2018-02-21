@@ -28,6 +28,10 @@ pip install -r requirements.txt
 
 * MainCode.ipynb has two approaches FuzyMatching And Training with Classifiers.
 
+* There are two sample inputs -
+  * Deduplication Problem - Sample Dataset.csv is the provided one.
+  * ManualLabelsorted.csv is the manually labeled Cluster ID column for calculating Accuracy.
+
 * Output Files for all the approaches are there in output folder with similar names of them - 
   * -- output files have clusters with their ID and confidence score for it.
   * -- final_output files have unique ID's by keeping first and removing all other duplicate observation
