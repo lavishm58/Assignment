@@ -1,4 +1,4 @@
-# InnvaccerAssignment
+# Innovaccer Analytics Assignment
 
 ## Setup ##
 ## Using virtual environment ##
