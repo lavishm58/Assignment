@@ -28,6 +28,8 @@ pip install -r requirements.txt
 
 * MainCode.ipynb has two approaches FuzyMatching And Training with Classifier.
 
-* Output Files for all the approaches are there with similar names of them.
+* Output Files for all the approaches are there in output folder with similar names of them - 
+  * -- output files have clusters with their ID and confidence score for it.
+  * -- final_output files have unique ID's by keeping first and removing all other duplicate observation
 
 * Detailed approach is also written in approach.pptx.
