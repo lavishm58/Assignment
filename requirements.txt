@@ -1,7 +1,5 @@
 fuzzywuzzy
 pandas
-csv
-os
 dedupe
 unidecode
 future
