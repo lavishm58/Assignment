@@ -1,5 +1,3 @@
-# Innovaccer Analytics Assignment
-
 ## Setup ##
 ## Using virtual environment ##
 Below intructions are given for installing technologies used
